@@ -11,4 +11,4 @@
 * Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
 * All of your functions must be exported
 
-![alt text](images/img.jpg)
+![alt text](0x00-ES6_basic/images/img.jpg)
