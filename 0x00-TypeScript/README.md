@@ -1,3 +1,3 @@
 # 0x04. Typescript
 
-![](typescript)
+![mage](typescript.jpg)
